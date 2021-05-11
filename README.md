@@ -11,3 +11,5 @@ produce visualisations of that data.
 Since late 2020, the data available has increased both in volume and variety and this small study can be extended to include
 different factors that may have affected death rates, as well as looking at the differences in the second wave in countries
 that faired better during the first wave. 
+
+Run using Jupyter notebook
